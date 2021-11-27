@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ecommercereact.github.io/static/css/main.402f0724.chunk.css",
+    "main.js": "/ecommercereact.github.io/static/js/main.608b714d.chunk.js",
+    "main.js.map": "/ecommercereact.github.io/static/js/main.608b714d.chunk.js.map",
+    "runtime-main.js": "/ecommercereact.github.io/static/js/runtime-main.560f28f6.js",
+    "runtime-main.js.map": "/ecommercereact.github.io/static/js/runtime-main.560f28f6.js.map",
+    "static/js/2.d42789ea.chunk.js": "/ecommercereact.github.io/static/js/2.d42789ea.chunk.js",
+    "static/js/2.d42789ea.chunk.js.map": "/ecommercereact.github.io/static/js/2.d42789ea.chunk.js.map",
+    "static/js/3.40a06a37.chunk.js": "/ecommercereact.github.io/static/js/3.40a06a37.chunk.js",
+    "static/js/3.40a06a37.chunk.js.map": "/ecommercereact.github.io/static/js/3.40a06a37.chunk.js.map",
+    "index.html": "/ecommercereact.github.io/index.html",
+    "static/css/main.402f0724.chunk.css.map": "/ecommercereact.github.io/static/css/main.402f0724.chunk.css.map",
+    "static/js/2.d42789ea.chunk.js.LICENSE.txt": "/ecommercereact.github.io/static/js/2.d42789ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.560f28f6.js",
+    "static/js/2.d42789ea.chunk.js",
+    "static/css/main.402f0724.chunk.css",
+    "static/js/main.608b714d.chunk.js"
+  ]
+}
